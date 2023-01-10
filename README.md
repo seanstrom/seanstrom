@@ -1,5 +1,5 @@
 # Hey 👋, I'm Sean
-### I'm a creative technologist who designs and programs software.
+### I'm a creative programmer who designs and programs software.
 
 * I’ve been working professionally as an app developer on the web for over eight years. Along the way I’ve been a part of building and shipping mobile and desktop apps, as well as server infrastructure and devops.
 
