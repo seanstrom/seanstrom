@@ -6,8 +6,4 @@
 
 * Recently, I graduated from Goldsmiths University of London as a master’s student in Virtual Reality. In my studies, I was expanding my skill-set into the 3D world of modeling, animation, and game engines.
 
-* Currently, I’m building tools for thought at [Nette](https://nette.io) <br/>and exploring new mediums for research, digital gardening, and exploratory AI.
-
-* Moving forward, I’ll be pursuing my passion for understanding <br/>and documenting the creative and technical process of making wonderful things.
-
-* In general, I’m always seeking opportunities to contribute to <br/>fascinating ideas and collaborate with delightful people.
+* Currently, I’m building tools for thought at [Nette](https://nette.io) and exploring new mediums for research, digital gardening, and exploratory AI. Moving forward, I’ll be pursuing my passion for understanding and documenting the creative and technical process of making wonderful things. In general, I’m always seeking opportunities to contribute to fascinating ideas and collaborate with delightful people.
