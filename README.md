@@ -1,8 +1,7 @@
 # Hey 👋, I'm Sean
 
-### I'm a creative engineer who designs and programs software.
-
-* I’m a software engineer focused on crafting interactive systems where design, information, and performance intertwine.
-* My work has led me to explore spatial interfaces and editor-like workflows, built upon enriched data models and expressive interactions.
-* I’m particularly interested in tools and systems that help people navigate information, reason about ideas, and work creatively.
-* I enjoy collaborating with people who care deeply about craft, taste, and thoughtful problem-solving.
+### I design and build interactive software systems.
+* I’m a software engineer focused on frontend and application architecture, where interaction design, structured data, and performance align.
+*	Much of my work explores spatial interfaces and editor-like workflows built on deterministic layout systems and expressive UI primitives.
+*	I’m interested in tools that help people navigate complexity, reason clearly, and build thoughtfully.
+*	I value collaboration with people who care about craft, clarity, and long-term system quality.
