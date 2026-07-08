@@ -1,4 +1,5 @@
-<img width="1309" height="745" alt="profile-avatar-with-background-dark" src="https://github.com/user-attachments/assets/14aa0623-47cd-46c2-a9e4-af9c3e965540" />
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/dedd9267-c980-4af7-bdbb-224662377299" />
+
 
 <h1 style="text-align: right;">Hey, I'm Sean</h1>
 
