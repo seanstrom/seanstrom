@@ -1,7 +1,11 @@
-# Hey 👋, I'm Sean
+<img width="1309" height="745" alt="profile-avatar-with-background-dark" src="https://github.com/user-attachments/assets/14aa0623-47cd-46c2-a9e4-af9c3e965540" />
 
-### I design and build interactive software systems.
-* I’m a software engineer focused on frontend architecture, interaction design, structured data, and performance.
-*	Much of my work explores spatial interfaces and editor-like workflows grounded in robust layout systems and expressive UI primitives.
-*	I’m drawn to tools that help people navigate complexity, reason clearly, and build thoughtfully.
-*	I value collaboration with teams that prioritize craft, clarity, and long-term system quality.
+<h1 style="text-align: right;">Hey, I'm Sean</h1>
+
+
+# a creative engineer who designs and develops software
+
+* I’m a software engineer focused on crafting interactive systems where design, information, and performance intertwine.
+* I enjoy collaborating with people who care deeply about craft, taste, and thoughtful problem-solving.
+* My work has led me to explore spatial interfaces and editor-like workflows, built upon enriched data models and expressive interactions.
+* I’m particularly interested in tools and systems that help people navigate information, reason about ideas, and work creatively.
