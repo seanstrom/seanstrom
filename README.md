@@ -1,4 +1,5 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/2fc41b65-e7b2-4bc5-90f5-5ff23c672ea5" />
+<img width="1152" height="384" alt="lake-background" src="https://github.com/user-attachments/assets/4581b925-ae83-43fb-bb77-ae9945eed77b" />
+
 
 ## About Me
 
